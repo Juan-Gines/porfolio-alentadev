@@ -1,8 +1,8 @@
-const Projects = () => {
+const Experience = () => {
   return (
     <section className='p-11'>
       <header>
-        <h2 className='text-orange-200 text-xl md:text-2xl mb-2'>Mis Proyectos</h2>
+        <h2 className='text-orange-200 text-xl md:text-2xl mb-2'>Experiencia</h2>
       </header>
       <article className='grid grid-cols-3'>
         <div className='w-1/5'>
@@ -25,4 +25,4 @@ const Projects = () => {
   )
 }
 
-export default Projects
+export default Experience
